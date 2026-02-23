@@ -1,6 +1,6 @@
 This project was lead in 2023 as a final project assignment for the TU Delft course
 EE4C12 - Machine Learning for Electrical Engineering (https://microelectronics.tudelft.nl/Education/coursedetail.php?mi=179),
-in team with Cyprien Tordo.
+in team with Cyprien Tordo (@Ctordo).
 
 In this Final Project Assignment, our goal is to develop a Machine Learning model to detect various
 types of abnormal heartbeats (arrhythmias) from heart activity recorded in the form of an
